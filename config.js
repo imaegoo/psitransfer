@@ -35,7 +35,7 @@ const config = {
     "4838400": "8 Weeks"
   },
   // admin password, set to false to disable /admin page
-  "adminPass": false,
+  "adminPass": 'maeDrive',
   // upload password, set to false to disable
   "uploadPass": false,
   // make the bucket-password field mandatory

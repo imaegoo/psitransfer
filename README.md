@@ -68,13 +68,13 @@ $ npm start
 ```bash
 # Compile the frontend apps
 $ cd app
-$ npm install
-$ npm run build
+$ yarn
+$ yarn build
 
 # Install dependencies
 $ cd ..
-$ npm install
-$ npm start
+$ yarn
+$ yarn start
 ```
 
 ### Configuration
